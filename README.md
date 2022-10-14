@@ -2,10 +2,5 @@
 
 - Add some stuff here
 
-def myarea():
-	#This function asks the user to enter a value for length and a value for width. This function calculates the area of the values entered by the user.
-	l = int(input(' Enter a value for length: '))
-	w = int(input(' Enter a value for width: '))
-	area = l*w
-	print(' The area is ' + str(area))
+The function myarea() within the script, area_script1.py, calculates area by asking the user to enter a value for length (l) and a value for width (w). The variable "l" represents the length and the variable "w" represents the width. The variable "area" represents the length (l) multiplied by the width (w) to calculate the area. The function will then print the output of the calculated area.)
 
